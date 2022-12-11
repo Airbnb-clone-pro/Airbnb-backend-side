@@ -11,6 +11,7 @@ function localize(localizedUnit, originalUnit){
     unit.hostLang = originalUnit.hostLang;
     unit.catId = originalUnit.catId;
     unit.id = originalUnit._id
+    unit.navigation = originalUnit.navigation
     return unit
 }
 

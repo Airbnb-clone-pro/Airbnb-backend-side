@@ -1,4 +1,4 @@
-# E-Commerce API Project
+# E-Airbnb Server
 
 ### E-Commerce Node.JS API ready to integrate with Frontend Side.
 
